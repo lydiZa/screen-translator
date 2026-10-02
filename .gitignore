@@ -1,0 +1,21 @@
+# Secret keys & credentials
+.env
+
+# Ignored scripts
+capture.py
+upload.py
+
+# Virtual environment
+venv/
+
+# Python cache & temporary files
+__pycache__/
+*.pyc
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Local settings or images
+settings.json
+images/

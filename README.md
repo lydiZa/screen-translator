@@ -8,8 +8,6 @@ Tkinter manages the desktop interface, mouse events, and transparent overlays us
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Google%20Gemini-3.6%20Flash--Lite-8E44AD?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 ---
 
 ##  Overview

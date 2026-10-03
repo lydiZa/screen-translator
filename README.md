@@ -7,7 +7,7 @@ The app is a Python desktop translator built around a persistent bounding-box wo
 Tkinter manages the desktop interface, mouse events, and transparent overlays using an event-driven main loop that keeps the UI visible and interactive. mss uses direct OS system calls to capture pixel buffers from your selected screen coordinates in milliseconds without saving files to disk. threading offloads the network API calls to background execution paths so the interface stays fluid and responsive without freezing during text translation.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash--Lite-8E44AD?style=flat)
+![Gemini API](https://img.shields.io/badge/Google%20Gemini-3.6%20Flash--Lite-8E44AD?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---

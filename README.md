@@ -12,7 +12,7 @@ Tkinter manages the desktop interface, mouse events, and transparent overlays us
 
 ##  Overview
 
-The app is a Python desktop translator built around a persistent bounding-box workflow. It uses **Tkinter** for coordinate overlay mapping, **`mss`** for low-latency screen region captures, and **`threading`** to run Gemini multimodal API calls in the background so the GUI main loop stays completely responsive. It extracts original dialogue and streams structured translations directly into a customizable, transparent UI.
+The app is a Python desktop translator built around a persistent bounding-box workflow. It uses **Tkinter** for coordinate overlay mapping, **`mss`** for low-latency screen region captures, and **`threading`** to run Gemini multimodal API calls in the background so the GUI main loop stays completely responsive. It extracts original dialogue and streams structured translations directly into a customizable UI.
 
 ---
 
